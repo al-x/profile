@@ -2,7 +2,7 @@
 body {
   background-color: #EADDA6;
   font-family: 'Roboto', sans-serif;
-  color:  #7d7d7d;
+  /*color:  #7d7d7d;*/
   font-weight: 300;
   font-size: 15px;
   line-height: 1.6em;
@@ -107,15 +107,23 @@ table img {
   text-align: right;
 }
 
-#movies{
+#books{
   font-weight: 300;
   font-size: 15px;
   line-height: 1.6em;
 }
-#movies img{
+#books img{
   width: 100px;
 }
-#movies td{
+#books td{
   padding: 10px;
 }
-
+#blue {
+  color: #11F;
+}
+#red {
+  color: #F11;
+}
+#yellow {
+  color: #1F1;
+}
